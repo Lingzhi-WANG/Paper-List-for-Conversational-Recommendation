@@ -10,6 +10,13 @@ We list the papers that are related to Conversational Recommendation and Convers
 
 ---
 
+### Conversational Movie Recommendation
+
+- Towards Deep Conversational Recommendations. 
+-- Raymond Li, Samira Kahou, Hannes Schulz, Vincent Michalski, Laurent Charlin, Chris Pal, NeurIPS 2018.
+
+
+
 
 
 
