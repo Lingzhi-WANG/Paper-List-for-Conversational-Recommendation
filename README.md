@@ -22,14 +22,19 @@ We list the papers that are related to Conversational Recommendation and Convers
 ### Most Related Datasets
 ReDial 
 - Towards Deep Conversational Recommendations. -- Raymond Li, Samira Kahou, Hannes Schulz, Vincent Michalski, Laurent Charlin, Chris Pal, NeurIPS 2018.
+
 GoRecDial
 - Recommendation as a Communication Game: Self-Supervised Bot-Play for Goal-oriented Dialogue. -- Dongyeop Kang, Anusha Balakrishnan, Pararth Shah, Paul Crook, Y-Lan Boureau, Jason Weston, 2019. 
+
 OpenDialKG
 - OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs. -- Seungwhan Moon, Pararth Shah, Anuj Kumar, Rajen Subba, 2019.
+
 DuRecDial
 - Towards Conversational Recommendation over Multi-Type Dialogs. -- Zeming Liu, Haifeng Wang, Zheng-Yu Niu, Hua Wu, Wanxiang Che, Ting Liu, 2020.
+
 INSPIRED
 - INSPIRED: Toward Sociable Recommendation Dialog Systems. -- Shirley Anugrah Hayati, Dongyeop Kang, Qingxiaoyang Zhu, Weiyan Shi, Zhou Yu, 2020.
+
 TG-ReDial
 - Towards Topic-Guided Conversational Recommender System. -- Kun Zhou, Yuanhang Zhou, Wayne Xin Zhao, Xiaoke Wang, Ji-Rong Wen, 2020.
 
